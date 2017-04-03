@@ -1,0 +1,15 @@
+{
+    "messages": [
+        {
+            "message": {
+                "results": [
+                    {
+                        "id": "57312000000TNfE",
+                        "isAvailable": true
+                    }
+                ]
+            },
+            "type": "Availability"
+        }
+    ]
+}

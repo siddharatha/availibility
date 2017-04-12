@@ -2,37 +2,9 @@
     "messages": [
         {
             "message": {
-                "results": [
-                    {
-                        "id": "57312000000TNfE",
-                        "isAvailable": true
-                    },
-                    {
-                        "id": "57312000000TNfi",
-                        "isAvailable": true
-                    },
-                    {
-                        "id": "57312000000TNfd",
-                        "isAvailable": true
-                    },
-                    {
-                        "id": "57312000000TNfY",
-                        "isAvailable": true
-                    },
-                    {
-                        "id": "57312000000TNfT",
-                        "isAvailable": true
-                    },
-                    {
-                        "id": "57312000000TNfO"
-                    },
-                    {
-                        "id": "57312000000TNfJ",
-                        "isAvailable": true
-                    }
-                ]
+                "text": "Temporary system throttling, deployment disabled"
             },
-            "type": "Availability"
+            "type": "Error"
         }
     ]
 }

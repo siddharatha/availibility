@@ -1,0 +1,36 @@
+{
+    "messages": [
+        {
+            "message": {
+                "results": [
+                    {
+                        "id": "57312000000TNfE",
+                        "isAvailable": true
+                    },
+                    {
+                        "id": "57312000000TNfi"
+                    },
+                    {
+                        "id": "57312000000TNfd"
+                    },
+                    {
+                        "id": "57312000000TNfY",
+                        "isAvailable": true
+                    },
+                    {
+                        "id": "57312000000TNfT",
+                        "isAvailable": true
+                    },
+                    {
+                        "id": "57312000000TNfO"
+                    },
+                    {
+                        "id": "57312000000TNfJ",
+                        "isAvailable": true
+                    }
+                ]
+            },
+            "type": "Availability"
+        }
+    ]
+}

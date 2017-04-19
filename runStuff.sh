@@ -2,3 +2,4 @@ curl 'https://d.la3-c2-chi.salesforceliveagent.com/chat/rest/Visitor/Availabilit
 git add report.json
 dt=$(date '+%d/%m/%Y %H:%M:%S');
 git commit -m "updated on $dt"
+

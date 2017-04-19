@@ -3,7 +3,7 @@
 
 while true
 do 
-	./ES-PRM.sh
+	./runStuff.sh
 	sleep 4
 	
 done

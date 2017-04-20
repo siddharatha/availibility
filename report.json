@@ -4,7 +4,8 @@
             "message": {
                 "results": [
                     {
-                        "id": "573120000008SxI"
+                        "id": "573120000008SxI",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SxN"

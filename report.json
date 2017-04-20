@@ -225,7 +225,8 @@
                         "id": "57312000000L2jn"
                     },
                     {
-                        "id": "57312000000TNdc"
+                        "id": "57312000000TNdc",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNdh"
@@ -265,7 +266,8 @@
                         "isAvailable": true
                     },
                     {
-                        "id": "57312000000TNea"
+                        "id": "57312000000TNea",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000TNef"

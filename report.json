@@ -4,7 +4,8 @@
             "message": {
                 "results": [
                     {
-                        "id": "573120000008SxI"
+                        "id": "573120000008SxI",
+                        "isAvailable": true
                     },
                     {
                         "id": "573120000008SxN"
@@ -31,7 +32,8 @@
                         "id": "57312000000CbdB"
                     },
                     {
-                        "id": "57312000000CbdG"
+                        "id": "57312000000CbdG",
+                        "isAvailable": true
                     },
                     {
                         "id": "57312000000CbdL"

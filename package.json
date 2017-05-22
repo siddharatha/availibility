@@ -1,0 +1,23 @@
+{
+  "name": "ccc_chat_availability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwanes90/availibility.git"
+  },
+  "author": "marwane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwanes90/availibility/issues"
+  },
+  "homepage": "https://github.com/marwanes90/availibility#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "moment": "^2.18.1"
+  }
+}
